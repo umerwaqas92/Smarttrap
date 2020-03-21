@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745707912836",
+    "firebase_url": "https://smarttrap-b2f09.firebaseio.com",
+    "project_id": "smarttrap-b2f09",
+    "storage_bucket": "smarttrap-b2f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745707912836:android:972ed0e142c308ca8c8cd1",
+        "android_client_info": {
+          "package_name": "com.smarttrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745707912836-g9g2q7dng2lmc7edoe9os90k56u321du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmtz3OjZqvcfq7vZQdyUt5LxV7YhvVF1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745707912836-g9g2q7dng2lmc7edoe9os90k56u321du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
